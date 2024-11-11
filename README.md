@@ -32,10 +32,10 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the repository** to your local machine:
     ```bash
     git clone https://github.com/KennethTaipe06/BasicJavaScriptApp3.git
+    cd BasicJavaScriptApp3
     ```
-2. **Open a Powershell terminal** in the project directory.
 
-3. **Install the dependencies**:
+2. **Install the dependencies**:
     ```bash
     npm install
     ```
