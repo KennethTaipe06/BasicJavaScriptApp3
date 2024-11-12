@@ -1,4 +1,4 @@
-# Python JavaScript Basic App
+# JavaScript Basic App
 
 This is a basic JavaScript project created as part of a Distributed Programming assignment. For this assignment, we used five different programming languages across five individual projects to demonstrate and explore various technologies and methods.
 
